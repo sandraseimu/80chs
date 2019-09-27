@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Main</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_europe">Europe</string>
+    <string name="title_activity_sauth__america">Sauth_America</string>
+    <string name="title_activity_asia">Asia</string>
+    <string name="title_activity_main">Main</string>
+</resources>
